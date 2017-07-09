@@ -1,0 +1,56 @@
+{
+  "description": "",
+  "language": "en",
+  "activeAssistantAgents": [
+    "smalltalk-domain-on",
+    "smalltalk-fulfillment-on"
+  ],
+  "googleAssistant": {
+    "googleAssistantCompatible": true,
+    "project": "api-demo-bcfe4",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [
+      {
+        "intentId": "d6eb8789-4ee6-4c73-84bb-a55b9acaa73a",
+        "signInRequired": false
+      },
+      {
+        "intentId": "fb0b814a-b558-4e6c-8f3f-883a53b421a8",
+        "signInRequired": false
+      },
+      {
+        "intentId": "c8415308-896d-4449-a8f8-a5ef2f80aa21",
+        "signInRequired": false
+      },
+      {
+        "intentId": "8245d67f-8938-405f-b35e-a57d432b3f76",
+        "signInRequired": false
+      },
+      {
+        "intentId": "a2b9ab87-07af-4b09-8701-ef970306b8db",
+        "signInRequired": false
+      },
+      {
+        "intentId": "e958f9d5-a0bf-49ee-aa6e-3c1e7b12c93f",
+        "signInRequired": false
+      }
+    ],
+    "systemIntents": [],
+    "endIntentIds": [],
+    "oAuthLinking": {
+      "required": false,
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "protocolVersion": "V2"
+  },
+  "defaultTimezone": "America/Barbados",
+  "webhook": {
+    "available": false,
+    "useForDomains": false
+  },
+  "isPrivate": true,
+  "customClassifierMode": "use.after",
+  "mlMinConfidence": 0.3
+}

@@ -1,0 +1,34 @@
+{
+  "id": "3d4458d3-7339-4a26-86c0-19c3d790f26e",
+  "name": "api-demo-entity",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "Hi",
+      "synonyms": [
+        "Hi"
+      ]
+    },
+    {
+      "value": "Hey",
+      "synonyms": [
+        "Hey"
+      ]
+    },
+    {
+      "value": "Hello",
+      "synonyms": [
+        "Hello"
+      ]
+    },
+    {
+      "value": "What\u0027s up?",
+      "synonyms": [
+        "What\u0027s up?",
+        "Wassup"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

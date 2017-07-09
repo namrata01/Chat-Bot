@@ -1,0 +1,54 @@
+{
+  "userSays": [
+    {
+      "id": "434ee29f-49d7-4541-bbcf-58767e769a9c",
+      "data": [
+        {
+          "text": "How old are you?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "48ce853b-7162-4d46-81da-cd313405c270",
+      "data": [
+        {
+          "text": "What is your age?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "e958f9d5-a0bf-49ee-aa6e-3c1e7b12c93f",
+  "name": "General Questions",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "I am timeless ! :D",
+            "I am young and alive!",
+            "I am one day old!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,151 @@
+{
+  "userSays": [
+    {
+      "id": "93089127-94d4-42e1-89b1-84d585bf028c",
+      "data": [
+        {
+          "text": "what are some of your strengths"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "98522420-45c2-41bd-843d-e027e8cc48c3",
+      "data": [
+        {
+          "text": "do you have strong points"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "666c5495-14fc-464a-9f80-c2b5aa7c74b2",
+      "data": [
+        {
+          "text": "could you tell me about your biggest strength"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c026f551-e110-41db-809c-62b4230acc5c",
+      "data": [
+        {
+          "text": "tell me about your strengths"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "526ba7ac-c390-4036-aeff-aa69d4ce2152",
+      "data": [
+        {
+          "text": "what are your strengths"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1ec15eb3-b20b-41a7-8b9b-5bae65947ca5",
+      "data": [
+        {
+          "text": "what is your biggest strength"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "a2b9ab87-07af-4b09-8701-ef970306b8db",
+  "name": "strength",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "strength",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "kik",
+          "speech": [
+            "My biggest strength is my passion for the job. I love creating beautiful things that make people happy.",
+            "My passion for the job is definitely my biggest strength. It\u0027s great when you can share beautiful things with the others.",
+            "I love sharing my joy with people. It\u0027s wonderful when you are able to cheer up a person with something beautiful."
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "kik",
+          "speech": "☀️"
+        },
+        {
+          "type": 0,
+          "platform": "telegram",
+          "speech": [
+            "My biggest strength is my passion for the job. I love creating beautiful things that make people happy.",
+            "My passion for the job is definitely my biggest strength. It\u0027s great when you can share beautiful things with the others.",
+            "I love sharing my joy with people. It\u0027s wonderful when you are able to cheer up a person with something beautiful."
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "telegram",
+          "speech": "☀️"
+        },
+        {
+          "type": 0,
+          "platform": "slack",
+          "speech": [
+            "My biggest strength is my passion for the job. I love creating beautiful things that make people happy.",
+            "My passion for the job is definitely my biggest strength. It\u0027s great when you can share beautiful things with the others.",
+            "I love sharing my joy with people. It\u0027s wonderful when you are able to cheer up a person with something beautiful."
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "slack",
+          "speech": "☀️"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "speech": [
+            "My biggest strength is my passion for the job. I love creating beautiful things that make people happy.",
+            "My passion for the job is definitely my biggest strength. It\u0027s great when you can share beautiful things with the others.",
+            "I love sharing my joy with people. It\u0027s wonderful when you are able to cheer up a person with something beautiful."
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "speech": "☀️"
+        },
+        {
+          "type": 0,
+          "speech": [
+            "My biggest strength is my passion for the job. I love creating beautiful things that make people happy.",
+            "My passion for the job is definitely my biggest strength. It\u0027s great when you can share beautiful things with the others.",
+            "I love sharing my joy with people. It\u0027s wonderful when you are able to cheer up a person with something beautiful."
+          ]
+        },
+        {
+          "type": 0,
+          "speech": "☀️"
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

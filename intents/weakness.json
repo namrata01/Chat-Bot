@@ -1,0 +1,213 @@
+{
+  "userSays": [
+    {
+      "id": "d3fcee33-0e57-4008-8955-dff8fc142018",
+      "data": [
+        {
+          "text": "do you have weak points"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8a7d70b9-a1e1-4495-9021-f669ef7eef55",
+      "data": [
+        {
+          "text": "could you tell me about your biggest weakness"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2bb76021-3adc-4e8a-86aa-76a96336d23f",
+      "data": [
+        {
+          "text": "tell me about your weaknesses"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1ce29a6f-2ce8-4602-975c-c88bd504bd87",
+      "data": [
+        {
+          "text": "what are your weaknesses"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "78d334f6-512e-4c1b-8237-9b31a03a5d8c",
+      "data": [
+        {
+          "text": "what is your biggest weakness"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "c8415308-896d-4449-a8f8-a5ef2f80aa21",
+  "name": "weakness",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "weakness",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "kik",
+          "speech": [
+            "I\u0027m lazy.",
+            "I am a little bit lazy.",
+            "I\u0027m a lazy guy."
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "kik",
+          "speech": "😜"
+        },
+        {
+          "type": 0,
+          "platform": "kik",
+          "speech": [
+            "But it\u0027s a secret.",
+            "Let\u0027s keep it a secret.",
+            "Don\u0027t tell anyone.",
+            ""
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "kik",
+          "speech": "😇"
+        },
+        {
+          "type": 0,
+          "platform": "telegram",
+          "speech": [
+            "I\u0027m lazy.",
+            "I am a little bit lazy.",
+            "I\u0027m a lazy guy."
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "telegram",
+          "speech": [
+            "😜",
+            ""
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "telegram",
+          "speech": [
+            "But it\u0027s a secret.",
+            "Let\u0027s keep it a secret.",
+            "Don\u0027t tell anyone."
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "telegram",
+          "speech": "😇"
+        },
+        {
+          "type": 0,
+          "platform": "slack",
+          "speech": [
+            "I\u0027m lazy.",
+            "I am a little bit lazy.",
+            "I\u0027m a lazy guy."
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "slack",
+          "speech": "😜"
+        },
+        {
+          "type": 0,
+          "platform": "slack",
+          "speech": [
+            "But it\u0027s a secret.",
+            "Let\u0027s keep it a secret.",
+            "Don\u0027t tell anyone."
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "slack",
+          "speech": "😇"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "speech": [
+            "I\u0027m lazy.",
+            "I am a little bit lazy.",
+            "I\u0027m a lazy guy."
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "speech": "😜"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "speech": [
+            "But it\u0027s a secret.",
+            "Let\u0027s keep it a secret.",
+            "Don\u0027t tell anyone."
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "speech": "😇"
+        },
+        {
+          "type": 0,
+          "speech": [
+            "I\u0027m lazy.",
+            "I am a little bit lazy.",
+            "I\u0027m a lazy guy."
+          ]
+        },
+        {
+          "type": 0,
+          "speech": "😜"
+        },
+        {
+          "type": 0,
+          "speech": [
+            "But it\u0027s a secret.",
+            "Let\u0027s keep it a secret.",
+            "Don\u0027t tell anyone."
+          ]
+        },
+        {
+          "type": 0,
+          "speech": "😇"
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}
